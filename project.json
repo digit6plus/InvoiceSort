@@ -1,6 +1,6 @@
 {
-  "name": "Switch",
-  "description": "UIPath Academy",
+  "name": "Sort Invoices",
+  "description": "This automation moves the invoices to their proper subfolders.",
   "main": "SwitchSequence.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.12.3]",
